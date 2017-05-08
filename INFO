@@ -2,11 +2,6 @@
 Bot info:
 
 - Using m!help will send you all the commands that are on the bot.
-- If you want you can add the bot to your discord! (m!invite)
+- If you want you can add the bot to your discord! (m!invite) or [click here!](https://discordapp.com/oauth2/authorize?client_id=310287124983447554&scope=bot&permissions=8)
 
-- The bot was created with discord.js, node.js, and komada!
-- If you do not know what komada is:
-
-Komada is a discord.js framework to make it easier and more organised to make a discord bot!
-
-Courtesy of RileyDatLord.
+- The bot was created with discord.js, node.js, and the Komada framework.
